@@ -1,11 +1,6 @@
-# VUE结合TS实现登录模拟
+# nn
 
-## 创建项目上传git
-1. 创建项目 vue create demo_login
-2. 上传git git clone
-           git add .
-           git commit -m ''
-           git push
+## Project setup
 ```
 npm install
 ```
